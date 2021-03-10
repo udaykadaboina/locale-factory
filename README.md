@@ -1,4 +1,5 @@
 # Locale Factory
+ m vh
 
 This repo acts like a submodule consisting of locale files.
 
@@ -38,9 +39,9 @@ This repo acts like a submodule consisting of locale files.
 
     Note: In order to check if there is an update in the locale-factory repo. You can run `$ git status` to know a brief display if there are any uncommitted changes from the submodule.
 
+4. TEST COMMIT
 
 
-
-
+ygjv 9ikmp09lim[
 
 
